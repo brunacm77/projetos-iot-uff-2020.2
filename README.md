@@ -8,7 +8,7 @@ _____________________________________________________________________________
 
 < en >
 -----------------------------------------------------------------------------
-Source code for NodeMCU ESP32 projects with Arduino IDE for IoT
+Source code for NodeMCU ESP32 IoT projects with Arduino IDE 
 -----------------------------------------------------------------------------
 Discipline: System Programming Special Topics II - UFF 
 _____________________________________________________________________________
