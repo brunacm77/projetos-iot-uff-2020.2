@@ -1,8 +1,8 @@
 
-int LED_BUILTIN =2; // declaração do led como inteiro
+int LED_BUILTIN =2; // declaração do led interno do ESP32 como inteiro
 
 void setup() {
-  pinMode(LED_BUILTIN, OUTPUT);
+  pinMode(LED_BUILTIN, OUTPUT); 
 }
 
 void loop() {
